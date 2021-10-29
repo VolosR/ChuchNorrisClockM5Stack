@@ -16,8 +16,8 @@ String months[12]={"January","Febrary","March","April","May","June","July","Augu
 String days[7]={"Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"};
  
 //Provide your own WiFi credentials
-const char* ssid = "IGK202";
-const char* password = "18072019";
+const char* ssid = "xxxx";
+const char* password = "xxxxx";
 
 String response = "";
 DynamicJsonDocument doc(2048);
